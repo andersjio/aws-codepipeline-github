@@ -1,0 +1,50 @@
+[
+  {
+    "ParameterKey": "BitbucketSecret",
+    "ParameterValue": "mypassword"
+  },
+  {
+    "ParameterKey": "BitbucketServerUrl",
+    "ParameterValue": "https://api.github.com/repos/"
+  },
+  {
+    "ParameterKey": "BitbucketToken",
+    "ParameterValue": "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"
+  },
+  {
+    "ParameterKey": "EndpointType",
+    "ParameterValue": "API Gateway"
+  },
+  {
+    "ParameterKey": "LBSubnets",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "LBSSLCertificateArn",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "LBCIDR",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "LambdaSubnets",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "S3BucketCodePipelineName",
+    "ParameterValue": "awscpbitbucketintegrationb"
+  },
+  {
+    "ParameterKey": "VPCID",
+    "ParameterValue": "vpc-0088b2afbc13a5400"
+  },
+  {
+    "ParameterKey": "WebProxyHost",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "WebProxyPort",
+    "ParameterValue": ""
+  }
+]
